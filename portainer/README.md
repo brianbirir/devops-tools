@@ -2,7 +2,7 @@
 
 Portainer is a Docker management tool [https://www.portainer.io/](https://www.portainer.io/).
 
-#Pre-requisite
+# Pre-requisite
 
 - MacOS or Linux operating system
 - Docker engine - installed and running
